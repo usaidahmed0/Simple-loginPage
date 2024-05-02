@@ -1,0 +1,63 @@
+.login{
+    color: rgb(10, 117, 188);
+    font-size: 150px;
+    margin-left: 620px;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+
+.Username{
+    color: rgba(13, 13, 13, 0.24);
+    border: 5px groove rgb(10, 117, 188) ;
+    width: 200px;
+    padding: 10px;
+    font-size: medium;
+    border-radius: 55px;
+    margin-left: 660px;
+    
+}
+
+.Password{
+    color: rgba(13, 13, 13, 0.24);
+    border: 5px groove rgb(10, 117, 188) ;
+    width: 200px;
+    padding: 10px;
+    font-size: medium;
+    border-radius: 55px;
+    margin-left: 660px;
+    margin-top: 20px;
+}
+
+.forget-pass{
+    font-size: x-small;
+    margin-left: 800px;
+    margin-top: -10px;
+    text-decoration: underline;
+    color: rgba(10, 117, 188, 0.67);
+}
+
+.Login-button{
+    background-color: rgb(10, 117, 188);
+    color: aliceblue;
+    font-size: 25px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 730px;
+    display: flex;
+}
+.background{
+
+        background-image:url(./pexels-hngstrm-1939485.jpg);
+        position: absolute; 
+        height: 100%; 
+        width: 100%; 
+        background-size: cover; 
+        background-position: center; 
+        filter: blur(10px); 
+        z-index: -1; 
+    } 
+    
+
+
+
